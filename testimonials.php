@@ -9,7 +9,7 @@
 	
 		<h1>Don't Take Our Word For It</h1>
 		<h2>Testimonials from Our Clients</h2>
-		<p class="indent">As experienced timber frame home builders, we take a lot of pride in our work. One of the reasons that we are in the custom home business is to deliver families the house of their dreams. You don't have to take our word for it- see what our previous clients have to say about us!</p>
+		<p class="indent">As experienced timber frame home builders, we take a great deal of pride in our work. We are in the custom home business to provide families the home of their dreams. You don't have to take our word for it- see what our previous clients have to say about us!</p>
 		
 		<blockquote>
 		<p><span class="bqstart">&#8220;</span>Working with R and R Builders on my timber frame home has been a fantastic experience. After carefully selecting the style and custom details of my home, I felt confident leaving my project in their hands. Their team worked tirelessly to ensure my utmost satisfaction with every aspect of my home. R and R is committed to providing a superior product, and I would recommend them to anyone looking to build a quality timber frame home.<span class="bqend">&#8221;</span></p>
@@ -30,8 +30,6 @@
 		<p><span class="bqstart">&#8220;</span>My mountain home is a great escape and one of my biggest joys in life, and I have the team at R & R Builders to thank. I trusted R & R to build the home I had always dreamed of, and they exceeded my expectations. They were committed to making my project a success from start to finish, and that came through in the finished product.<span class="bqend">&#8221;</span></p>
 		<p>-Gary McClellan</p>
 		</blockquote>
-		
-		<p>What are you waiting for? Get started building your dream house with R and R builders today!</p>
 	
 	</div><!--#content-->
 </div><!--#wrapper-->

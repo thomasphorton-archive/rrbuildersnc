@@ -24,7 +24,7 @@
 		</div>
 	<div id="content">
 	<h2>R and R Builders - Custom Homes in Western North Carolina</h2>
-	<p class="indent">Hello and welcome to R & R Builders Company of NC. We are a custom home builder in the Lake Norman and Blowing Rock, NC areas. As builders, we ensure that every aspect of the homes we build reflects our commitment to excellence. R & R Builders uses years of experience, strong relationships with the best in the business, and a passion for what we do in order to bring the customer a superior product. No matter the scale of your project, we build homes we would be proud to live in. Take a look around our website to view some of our past projects and what we are currently working on. </p>
+	<p class="indent">Welcome to R & R Builders Company of NC. We are a custom home builder in the Lake Norman and Blowing Rock, NC areas. As builders, we ensure that every aspect of the homes we build reflects our commitment to excellence. R & R Builders uses years of experience, strong relationships with the best in the business, and a passion for what we do in order to bring the customer a superior product. No matter the scale of your project, we build homes we would be proud to live in. Take a look around our website to view some of our past projects and what we are currently working on. </p>
 	</div><!--#content-->
 </div><!--#wrapper-->
 <? include 'inc/footer.php'; ?>

@@ -199,14 +199,7 @@ a{
 
 /********** gallery.php **********/
 
-#bigPic img{
-	width:760px;
-	height:399px;
-	background-color:red;
-	display:block;
-	margin:0 auto;
-	overflow:hidden;
-}
+
 
 #carousel{
 	box-shadow:none !important;
