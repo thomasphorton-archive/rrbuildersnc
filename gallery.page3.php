@@ -46,6 +46,36 @@
     <li>
       <img src="images/page3/4.jpg" />
     </li>
+    <li>
+      <img src="images/page3/5.png" />
+    </li>
+    <li>
+      <img src="images/page3/6.png" />
+    </li>
+    <li>
+      <img src="images/page3/7.png" />
+    </li>
+    <li>
+      <img src="images/page3/8.png" />
+    </li>
+    <li>
+      <img src="images/page3/9.png" />
+    </li>
+    <li>
+      <img src="images/page3/10.png" />
+    </li>
+    <li>
+      <img src="images/page3/11.png" />
+    </li>
+    <li>
+      <img src="images/page3/12.png" />
+    </li>
+    <li>
+      <img src="images/page3/13.png" />
+    </li>
+    <li>
+      <img src="images/page3/14.png" />
+    </li>
   </ul>
 </div>
 <div id="carousel" class="flexslider gallery">
@@ -61,6 +91,36 @@
     </li>
     <li>
       <img src="images/page3/4.jpg" />
+    </li>
+    <li>
+      <img src="images/page3/5.png" />
+    </li>
+    <li>
+      <img src="images/page3/6.png" />
+    </li>
+    <li>
+      <img src="images/page3/7.png" />
+    </li>
+    <li>
+      <img src="images/page3/8.png" />
+    </li>
+    <li>
+      <img src="images/page3/9.png" />
+    </li>
+    <li>
+      <img src="images/page3/10.png" />
+    </li>
+    <li>
+      <img src="images/page3/11.png" />
+    </li>
+    <li>
+      <img src="images/page3/12.png" />
+    </li>
+    <li>
+      <img src="images/page3/13.png" />
+    </li>
+    <li>
+      <img src="images/page3/14.png" />
     </li>
   </ul>
 </div>
