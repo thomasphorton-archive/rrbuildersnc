@@ -1,9 +1,12 @@
 <header>
-<img src="images/shadow.png" id="shadow"/>
-<img src="images/frontrafter.png" id="frontRafter" />
-<img src="images/backrafter.png" id="backRafter" />
+<img src="images/shadow.png" class="header-shadow"/>
+<img src="images/frontrafter.png" class="header-front-rafter" />
+<img src="images/backrafter.png" class="header-back-rafter" />
 <nav>
-<ul id="primaryNav">
+<a href="index.php">
+<img src="images/logo.png" class="header-logo"/>
+</a>
+<ul class="nav-primary">
 	<li><a href="index.php">Home</a></li>
 	<li><a href="about.php">About Us</a></li>
 	<li><a href="testimonials.php">Testimonials</a></li>
