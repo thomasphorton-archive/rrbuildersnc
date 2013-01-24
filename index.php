@@ -16,10 +16,12 @@
 <div id="wrapper">
 		<div class="flexslider">
 			<ul class="slides">
-				<li><img src="images/slides/slide1.jpg" /></li>
-				<li><img src="images/slides/slide2.jpg" /></li>
-				<li><img src="images/slides/slide3.jpg" /></li>
-				<li><img src="images/slides/slide4.jpg" /></li>
+				<li><img src="images/slides/1.png" /></li>
+				<li><img src="images/slides/2.png" /></li>
+				<li><img src="images/slides/3.png" /></li>
+				<li><img src="images/slides/4.png" /></li>
+				<li><img src="images/slides/5.png" /></li>
+				<li><img src="images/slides/6.png" /></li>
 			</ul>
 		</div>
 	<div id="content">
