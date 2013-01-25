@@ -9,10 +9,10 @@
 	
 		<h1>Don't Take Our Word For It</h1>
 		<h2>Testimonials from Our Clients</h2>
-		<p class="indent">As experienced timber frame home builders, we take a great deal of pride in our work. We are in the custom home business to provide families the home of their dreams. You don't have to take our word for it- see what our previous clients have to say about us!</p>
+		<p class="indent">As experienced timber frame home builders, we take a great deal of pride in our work. We are in the custom home business to provide families with the home of their dreams. You don't have to take our word for it- see what our previous clients have to say about us!</p>
 		
 		<blockquote>
-		<p><span class="bqstart">&#8220;</span>Working with R and R Builders on my timber frame home has been a fantastic experience. After carefully selecting the style and custom details of my home, I felt confident leaving my project in their hands. Their team worked tirelessly to ensure my utmost satisfaction with every aspect of my home. R and R is committed to providing a superior product, and I would recommend them to anyone looking to build a quality timber frame home.<span class="bqend">&#8221;</span></p>
+		<p><span class="bqstart">&#8220;</span>Working with R and R Builders on my timber frame home has been a fantastic experience. After carefully selecting the style and custom details of my home, I felt confident leaving my project in their hands. Their team worked tirelessly to ensure my utmost satisfaction with every aspect of my home. R & R builders did a great job, and I would recommend them to anyone looking to build a quality timber frame home.<span class="bqend">&#8221;</span></p>
 		<p>-Avery Cleland</p>
 		</blockquote>
 		
@@ -22,7 +22,7 @@
 		</blockquote>
 		
 		<blockquote>
-		<p><span class="bqstart">&#8220;</span>I am happy to recommend R & R Builders to anyone looking for a new home. The father-son team of Rick and Logan Riddle ensured every detail of our home was built to perfection. I have had such great memories with my family here. After we moved in, we decided on living room addition and didn't hesitate to contact R & R. Their guys are respectful and did the work in a clean, timely manner, and the results were amazing! For experienced builders that don't accept anything less than the best, look no further than R & R Builders.<span class="bqend">&#8221;</span></p>
+		<p><span class="bqstart">&#8220;</span>I am happy to recommend R & R Builders to anyone looking for a new home. The father-son team of Rick and Logan Riddle ensured every detail of our home was built to perfection. I have had such great memories with my family here. After we moved in, we decided on living room addition and didn't hesitate to contact R & R. Their guys are respectful and did the work in a clean, timely manner, and the results were amazing!<span class="bqend">&#8221;</span></p>
 		<p>-Mary Claire Brown</p>
 		</blockquote>
 		
