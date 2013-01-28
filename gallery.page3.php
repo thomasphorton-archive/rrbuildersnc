@@ -35,13 +35,10 @@
 	<div id="slider" class="flexslider gallery">
   <ul class="slides" id="bigPic">
     <li>
-      <img src="images/page3/1.jpg" />
+      <img src="images/page3/16.png" />
     </li>
     <li>
-      <img src="images/page3/2.jpg" />
-    </li>
-    <li>
-      <img src="images/page3/3.jpg" />
+      <img src="images/page3/17.png" />
     </li>
     <li>
       <img src="images/page3/4.jpg" />
@@ -56,16 +53,10 @@
       <img src="images/page3/7.png" />
     </li>
     <li>
-      <img src="images/page3/8.png" />
-    </li>
-    <li>
       <img src="images/page3/9.png" />
     </li>
     <li>
       <img src="images/page3/10.png" />
-    </li>
-    <li>
-      <img src="images/page3/11.png" />
     </li>
     <li>
       <img src="images/page3/12.png" />
@@ -75,19 +66,19 @@
     </li>
     <li>
       <img src="images/page3/14.png" />
+    </li>
+    <li>
+      <img src="images/page3/15.png" />
     </li>
   </ul>
 </div>
 <div id="carousel" class="flexslider gallery">
   <ul class="slides" id="smallPics">
-   <li>
-      <img src="images/page3/1.jpg" />
+  	<li>
+      <img src="images/page3/16.png" />
     </li>
     <li>
-      <img src="images/page3/2.jpg" />
-    </li>
-    <li>
-      <img src="images/page3/3.jpg" />
+      <img src="images/page3/17.png" />
     </li>
     <li>
       <img src="images/page3/4.jpg" />
@@ -101,17 +92,12 @@
     <li>
       <img src="images/page3/7.png" />
     </li>
-    <li>
-      <img src="images/page3/8.png" />
-    </li>
+
     <li>
       <img src="images/page3/9.png" />
     </li>
     <li>
       <img src="images/page3/10.png" />
-    </li>
-    <li>
-      <img src="images/page3/11.png" />
     </li>
     <li>
       <img src="images/page3/12.png" />
@@ -121,6 +107,9 @@
     </li>
     <li>
       <img src="images/page3/14.png" />
+    </li>
+    <li>
+      <img src="images/page3/15.png" />
     </li>
   </ul>
 </div>

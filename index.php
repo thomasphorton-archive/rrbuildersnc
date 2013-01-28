@@ -1,5 +1,5 @@
 <? 
-	$title="Custom Homes in Blowing Rock, NC"; 
+	$title="Custom Homes in Western NC"; 
 	include 'inc/html.header.php';
 ?>
 <script src="scripts/jquery.flexslider-min.js"></script>

@@ -7,7 +7,7 @@
 <div id="wrapper">
 	<div id="content">
 	<h2>Build a Custom Home with R and R Builders Today!</h2>
-	<p class="indent">Are you interested in our custom timber-frame home services in the Blowing Rock area? We'd love to hear from you! Please fill out the form below, and we will get in contact with you to discuss how we can work together to build the home of your dreams.</p>
+	<p class="indent">Are you interested in our custom timber-frame home services? We'd love to hear from you! Please fill out the form below, and we will get in contact with you to discuss how we can work together to build the home of your dreams.</p>
 	<form method="post" action="do.contact.php">
 		<input type="text" placeholder="Name:" id="nameField" name="nameField"/>
 		<input type="text" placeholder="Phone Number:" id="phoneField" name="phoneField"/>

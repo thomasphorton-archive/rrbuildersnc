@@ -22,7 +22,7 @@
 		</blockquote>
 		
 		<blockquote>
-		<p><span class="bqstart">&#8220;</span>I am happy to recommend R & R Builders to anyone looking for a new home. The father-son team of Rick and Logan Riddle ensured every detail of our home was built to perfection. I have had such great memories with my family here. After we moved in, we decided on living room addition and didn't hesitate to contact R & R. Their guys are respectful and did the work in a clean, timely manner, and the results were amazing!<span class="bqend">&#8221;</span></p>
+		<p><span class="bqstart">&#8220;</span>I am happy to recommend R & R Builders to anyone looking for a new home. The father-son team of Rick and Logan Riddle ensured every detail of our home was built to perfection. I have had such great memories with my family here. After we moved in, we decided on a living room addition and didn't hesitate to contact R & R. Their guys are respectful and did the work in a clean, timely manner, and the results were amazing!<span class="bqend">&#8221;</span></p>
 		<p>-Mary Claire Brown</p>
 		</blockquote>
 		

@@ -35,10 +35,7 @@
 	<div id="slider" class="flexslider gallery">
   <ul class="slides" id="bigPic">
     <li>
-      <img src="images/page2/1.jpg" />
-    </li>
-    <li>
-      <img src="images/page2/2.jpg" />
+      <img src="images/page2/14.png" />
     </li>
     <li>
       <img src="images/page2/3.jpg" />
@@ -77,11 +74,8 @@
 </div>
 <div id="carousel" class="flexslider gallery">
   <ul class="slides" id="smallPics">
-   <li>
-      <img src="images/page2/1.jpg" />
-    </li>
     <li>
-      <img src="images/page2/2.jpg" />
+      <img src="images/page2/14.png" />
     </li>
     <li>
       <img src="images/page2/3.jpg" />

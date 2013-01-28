@@ -36,7 +36,7 @@
 	<div id="slider" class="flexslider gallery">
   <ul class="slides" id="bigPic">
     <li>
-      <img src="images/page1/1.jpg" />
+      <img src="images/page1/10.png" />
     </li>
     <li>
       <img src="images/page1/2.jpg" />
@@ -56,19 +56,14 @@
     <li>
       <img src="images/page1/7.jpg" />
     </li>
-    <li>
-      <img src="images/page1/8.jpg" />
-    </li>
-     <li>
-      <img src="images/page1/9.jpg" />
-    </li>
+    
     <!-- items mirrored twice, total of 12 -->
   </ul>
 </div>
 <div id="carousel" class="flexslider gallery">
   <ul class="slides" id="smallPics">
    <li>
-      <img src="images/page1/1.jpg" />
+      <img src="images/page1/10.png" />
     </li>
     <li>
       <img src="images/page1/2.jpg" />
@@ -88,12 +83,7 @@
     <li>
       <img src="images/page1/7.jpg" />
     </li>
-    <li>
-      <img src="images/page1/8.jpg" />
-    </li>
-     <li>
-      <img src="images/page1/9.jpg" />
-    </li>
+   
   </ul>
 </div>
 	
