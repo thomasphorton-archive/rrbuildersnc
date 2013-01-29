@@ -43,11 +43,18 @@ header,footer{
 
 h1,h2{
 	font-family:'SinaNova';
-	/*color:#3065b2;*/
 	color:black;
-	
-	margin:0;
-	padding:10px 15px 0;
+	margin: 0;
+	padding: 5px 0 5px 150px;
+}
+
+.index h1, .index h2{
+	padding: 5px 10px;
+}
+
+.h3{
+	font-family:'SinaNova';
+	color: black;
 }
 
 a{
@@ -116,8 +123,8 @@ a{
 #wrapper{
 	background-image:url('../images/blueprint.jpg');
 	width:980px;
-	margin:-10px auto -10px;
-	padding:105px 20px 20px;
+	padding:60px 20px 20px;
+	margin: 0 auto;
 	display:block;
 	position:relative;
 	z-index:2;
@@ -228,20 +235,13 @@ a{
 	cursor:pointer;
 }
 
-.cover-photo{
-	margin-left:5px;
-}
-
 .cover-photo a{
 	float:left;
-	display:inline;
-	width:266px;
 	margin:0 2px;
 }
 
 .cover-photo img{
-	display:block;
-	width:266px;
+	width:269px;
 }
 
 .cover-photo-title{
@@ -250,11 +250,7 @@ a{
 	font-size:18px;
 	padding:5px 0;
 }
-/*
-.flexslider.gallery{
-	margin:20px auto 0 !important;
-}
-*/
+
 /********** testimonials.php **********/
 
 blockquote{
@@ -312,22 +308,6 @@ input{
 	margin:5px;
 }
 
-#nameField{
-	
-}
-
-#phoneField{
-	
-}
-
-#emailField{
-	
-}
-
-#cityField{
-	
-}
-
 #submitButton{
 	display:block;
 	margin:10px auto;	
@@ -370,6 +350,15 @@ html[xmlns] .clearfix {
 
     @media only screen and (min-width: 768px) and (max-width: 959px) {
  
+ h1, h2{
+	 padding-left: 110px;
+ }
+ 
+ .index h1, .index h2{
+	 padding-left: 20px;
+ }
+ 
+ 
 header{
 	height:auto;
 	width:768px;
@@ -379,7 +368,7 @@ header{
 .header-logo{
 	width:100px;
 	top:10px;
-	left:0;
+	left:10px;
 }
 
 .header-shadow,
@@ -391,8 +380,8 @@ header{
 .nav-primary{
 	position:absolute;
 	top:0;
-	left:110px;
-	display:inline;
+	left:130px;
+	width:600px;
 }
 
 .nav-primary li a{
@@ -407,22 +396,20 @@ header{
 
 #wrapper{
 	width:768px;
-	padding:70px 20px 20px;
-}
-/*
-.flexslider{
-	width:798px;
-	margin:10px 0 60px -15px !important;
+	padding:70px 0 0;
 }
 
-.flexslider.gallery{
-	margin:20px 0 60px -25px !important;
-}
-*/
 #content{
 	width:728px;
-	padding:20px;
 	margin-top:10px;
+}
+
+.flexslider-index{
+	margin-top: 20px;
+}
+
+.cover-photo img{
+	width:238px;
 }
 
 .footer-front-rafter,
@@ -459,6 +446,7 @@ header{
 				   
 				h1,h2{
 					text-align:center;
+					padding: 0;
 				}
 				        
 				.header-shadow,
@@ -470,14 +458,14 @@ header{
 				.header-logo{
 					width:70px;
 					top:10px;
-					left:-20px;
+					left:10px;
 				}
 				
 				.nav-primary{
 					position:absolute;
 					top:0;
-					left:55px;
-					width:320px;
+					left:120px;
+					width:200px;
 				}
 				
 				.nav-primary li a{
@@ -490,23 +478,20 @@ header{
 					color:#494949;
 				}
 				
-				#wrapper{
-					width:320px;
-					padding-top:70px;
-				}
-				/*
-				.flexslider{
-					width:340px;
-					margin:20px 0 60px -10px !important;
+				.flexslider-index{
+					margin-top: 45px;
 				}
 				
-				.flexslider.gallery{
-					margin:20px 0 60px -30px !important;
+				#wrapper{
+					width:320px;
+					margin: 0;
+					padding: 70px 0 0;
 				}
-				*/
+		
 				#content{
-					width:280px;
-					padding:20px;
+					width:300px;
+					padding:5px;
+					margin: 60px auto 0;
 				}
 				
 				.footer-front-rafter,
@@ -551,7 +536,7 @@ header{
 				header,footer{
 					height:auto;
 					width:480px;
-					margin:15px auto;
+				
 				}
 				        
 				.header-shadow,
@@ -562,14 +547,13 @@ header{
 				
 				.nav-primary{
 					position:absolute;
-					top:20px;
-					display:inline;
-					width:480px;
-					margin:0 auto;
+					top:10px;
+					left: 90px;
+					width: 380px;
 				}
 				
 				.nav-primary li a{
-					font-size:18px;
+					font-size:14px;
 					color:#AEAEAE;
 				}
 				
@@ -579,21 +563,13 @@ header{
 				
 				#wrapper{
 					width:480px;
-					padding:60px 20px 20px;
-				}
-				/*
-				.flexslider{
-					width:500px;
+					padding:20px 0px;
 				}
 				
-				.flexslider.gallery{
-					margin:10px 0 60px -30px !important;
-				}
-				*/
 				#content{
-					margin-top:8px;
+					margin-top:60px;
 					width:440px;
-					padding:20px;
+					padding:20px 0 5px;
 				}
 				
 				.footer-front-rafter,

@@ -6,6 +6,7 @@
 <? include 'inc/header.php';?>
 <div id="wrapper">
 	<div id="content">
+	<h1>Contact Us</h1>
 	<h2>Build a Custom Home with R and R Builders Today!</h2>
 	<p class="indent">Are you interested in our custom timber-frame home services? We'd love to hear from you! Please fill out the form below, and we will get in contact with you to discuss how we can work together to build the home of your dreams.</p>
 	<form method="post" action="do.contact.php">
@@ -18,7 +19,7 @@
 	</form>
 	<center>
 	<p>Or contact us at:</p>
-	<h2>R&R Builders Co.</h2>
+	<h3>R&R Builders Co.</h3>
 	<p>(828) 434.0864</p>
 	<p>P.O. Box 2068<br />
 	Blowing Rock, NC 28605</p>

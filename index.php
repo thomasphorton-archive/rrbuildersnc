@@ -11,10 +11,10 @@
 		})
 	})
 </script>
-<body>
+<body class="index">
 <? include 'inc/header.php';?>
 <div id="wrapper">
-		<div class="flexslider">
+		<div class="flexslider flexslider-index">
 			<ul class="slides">
 				<li><img src="images/slides/1.png" /></li>
 				<li><img src="images/slides/2.png" /></li>
