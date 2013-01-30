@@ -7,7 +7,7 @@
 <div id="wrapper">
 	<div id="content">
 	<h1>Contact Us</h1>
-	<h2>Build a Custom Home with R and R Builders Today!</h2>
+	<h2>Build a Custom Home with R & R Builders Today!</h2>
 	<p class="indent">Are you interested in our custom timber-frame home services? We'd love to hear from you! Please fill out the form below, and we will get in contact with you to discuss how we can work together to build the home of your dreams.</p>
 	<form method="post" action="do.contact.php">
 		<input type="text" placeholder="Name:" id="nameField" name="nameField"/>
